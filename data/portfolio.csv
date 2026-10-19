@@ -1,0 +1,6 @@
+position,type,ead_mn,pd,lgd,rho_economic,regulatory_class
+C1,Retail,100,0.0100,0.55,0.20,other_retail
+C2,Retail,150,0.0150,0.55,0.04,qrre
+C3,Retail,180,0.0120,0.30,0.15,residential_mortgage
+E1,Corporate,45,0.0038,0.45,,corporate
+E2,Corporate,180,0.0090,0.35,,corporate

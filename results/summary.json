@@ -1,0 +1,38 @@
+{
+  "n_scenarios": 1000000,
+  "expected_loss": 3.0645394652609936,
+  "std_loss": 7.074502977307982,
+  "var": 78.85996943507239,
+  "expected_shortfall": 94.17270361428274,
+  "economic_capital_var_minus_el": 75.7954299698114,
+  "economic_capital_es_minus_el": 91.10816414902175,
+  "confidence": 0.999,
+  "analytical_expected_loss": 3.0794500000000005,
+  "regulatory_capital_irb": 23.453659292548174,
+  "rwa_total": 293.17074115685216,
+  "diagnostics": {
+    "cholesky": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.8,
+        0.5999999999999999,
+        0.0
+      ],
+      [
+        0.7,
+        0.06666666666666674,
+        0.711024300256718
+      ]
+    ],
+    "asset_variance_E1": 1.0,
+    "asset_variance_E2": 1.03,
+    "threshold_E1": -2.669342091792527,
+    "threshold_E2": -2.4008401853962273,
+    "simulated_default_rate_E1": 0.00383,
+    "simulated_default_rate_E2": 0.008779
+  }
+}
